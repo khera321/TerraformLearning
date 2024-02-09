@@ -6,7 +6,7 @@ Basic Linux Commands
 
 3) vi: This is used to open and edit the file 
 
-	e.g vi <file-name>
+	e.g vi file-name
 
 	a) Press i: It will come in insert mode
 
